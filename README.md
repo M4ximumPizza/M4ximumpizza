@@ -1,16 +1,11 @@
-### Hi there 👋
+# 💫 About Me:
+🔭 I am currently working on nothing right now. <br>
+🌱 I’m currently learning Computer Science. <br>
+📫 How to reach me: Discord: M4ximumpizza#4712 <br>
+😄 Pronouns: He/Him <br>
+⚡ Fun fact: I program in Java, C++, HTML and somtimes python.
 
-<!--
-**M4ximumPizza/M4ximumpizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=M4ximumpizza&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M4ximumpizza&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M4ximumpizza&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
