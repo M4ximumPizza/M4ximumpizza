@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on nothing right now. <br>
+🔭 I am currently working on Project Alpha right now!!! <br>
 🌱 I’m currently learning Computer Science. <br>
 📫 How to reach me: Discord: M4ximumpizza#4712 <br>
 😄 Pronouns: He/Him <br>
