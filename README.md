@@ -3,7 +3,7 @@
 🌱 I’m currently learning Computer Science. <br>
 📫 How to reach me: Discord: M4ximumpizza#4712 <br>
 😄 Pronouns: He/Him <br>
-⚡ Fun fact: I program in Java, C++, HTML and somtimes python.
+⚡ Fun fact: I write my dates in Roman Numerials.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=M4ximumpizza&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
