@@ -56,7 +56,7 @@
     font-size: 0px;
   }
   .section-1 .screen:nth-child(1) {
-    background: url(../assets/first.jpg);
+    background: url(../assets/first.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 350%;
@@ -68,7 +68,7 @@
     background-size: 350%;
   }
   .section-1 .screen:nth-child(3) {
-    background: url(../assets/third.jpg);
+    background: url(../assets/third.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 350%;
