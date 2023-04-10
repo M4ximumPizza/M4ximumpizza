@@ -92,7 +92,8 @@
               Probably playing Minecraft!, A very humorous person!, 12500 hours in Minecraft!, Made by Logan!,
               The next Mr. Abernathy!, Look mum Im in a splash!, Cinnamon Bears are my fav candy!, That one guy!,
               I live to tell the tale!, Love the fam!, 4th of July is fav Holiday!, Very patriotic!, Hardwell is fav song artist!,
-              Gorges on cookies like there is no future!, I run like a gazelle they say!, Ran a 5:32 mile!, Ran 8 miles in under 53m! '>
+              Gorges on cookies like there is no future!, I run like a gazelle they say!, Ran a 5:32 mile!, Ran 8 miles in under 53m!
+              '>
               <span class="wrap"></span>
             </a>
               <script>
@@ -109,7 +110,13 @@ shuffleArray(textArray);
 document.getElementById("shuffleText").setAttribute("data-type", JSON.stringify(textArray));
 </script>
             </h2>
-              <h1>Hello world! I am Logan Abernathy</h1>
+              <h1 id="my-text">Hello world! I am Logan Abernathy</h1>
+            <script>
+      var randomNumber = Math.floor(Math.random() * 500) + 1;
+      if (randomNumber <= 1) {
+        document.getElementById("my-text").innerHTML = "Hello world! I am Abernathy Logan";
+      }
+            </script>
               <h5>
                 I am a student who is learning Computer Science that codes mostly
                 in Java and CSS.
@@ -164,7 +171,13 @@ document.getElementById("shuffleText").setAttribute("data-type", JSON.stringify(
               <div class="panel text-left">
                 <h2>About</h2>
                 <h3>Logan Abernathy</h3>
-                <h4>Self taught Game developer and Minecraft modder </h4>
+                <h4 id="mincecraft">Self taught Game developer and Minecraft modder </h4>
+                <script>
+      var randomNumber = Math.floor(Math.random() * 1000) + 1;
+      if (randomNumber <= 1) {
+        document.getElementById("mincecraft").innerHTML = "Self taught Minceraft modder and Game developer!";
+      }
+      </script>
                 <p>
                   I'm a passionate learner who's always willing to learn and
                   work across technologies and domains. I'm currently into Java
