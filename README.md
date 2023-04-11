@@ -53,7 +53,7 @@ of vanilla survival to its limits.
         <td><b>👨‍💻 Language</b></td>
       </tr>
     </thead>
-    <tbody>
+    <tobody>
       <tr>
 	      <td><a href="https://github.com/M4ximumPizza/Mecca"><b>🚀 Mecca</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/m4ximumpizza/Mecca?style=flat-square&labelColor=343b41"/></td>
@@ -61,6 +61,16 @@ of vanilla survival to its limits.
         <td><img alt="Issues" src="https://img.shields.io/github/issues/m4ximumpizza/Mecca?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/m4ximumpizza/Mecca?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/m4ximumpizza/Mecca?style=flat-square"/></td>
+      </tr>
+    </tobody>
+    <tobody>
+      <tr>
+	      <td><a href="https://github.com/GeoStudios/Fastutil"><b>🚀 Fastutil</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Fastutil?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Fastutil?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Fastutil?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Fastutil?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/GeoStudios/Fastutil?style=flat-square"/></td>
       </tr>
     </tobody>
   </table>
