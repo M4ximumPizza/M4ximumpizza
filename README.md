@@ -56,7 +56,7 @@ of vanilla survival to its limits.
     </thead>
     <tobody>
       <tr>
-	      <td><a href="https://github.com/M4ximumPizza/Mecca"><b>🚀 Mecca</b></a></td>
+	<td><a href="https://github.com/M4ximumPizza/Mecca"><b>🚀 Mecca</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/m4ximumpizza/Mecca?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/m4ximumpizza/Mecca?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/m4ximumpizza/Mecca?style=flat-square"/></td>
@@ -66,12 +66,12 @@ of vanilla survival to its limits.
     </tobody>
     <tobody>
       <tr>
-	      <td><a href="https://github.com/GeoStudios/Fastutil"><b>🚀 Fastutil</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Fastutil?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Fastutil?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Fastutil?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Fastutil?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/GeoStudios/Fastutil?style=flat-square"/></td>
+	<td><a href="https://github.com/GeoStudios/Centurion"><b>🚀 Centurion</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Centurion?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Centurion?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Centurion?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Centurion?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/GeoStudios/Centurion?style=flat-square"/></td>
       </tr>
     </tobody>
   </table>
@@ -85,7 +85,7 @@ of vanilla survival to its limits.
   	    <li><b>OS:</b> Windows 11</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> Powershell</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Code Editor:</b> Eclipse, VS Code, and Intelijj</li>
 	    <br />
 	</ul>	
 </details>
