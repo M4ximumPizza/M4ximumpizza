@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Logan Abernathy!](https://github.com/M4ximumPizza/)
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://m4ximumpizza.github.io/Site/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://m4ximumpizza.github.io/site/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=m4ximumpizza.m4ximumpizza&style=flat-square&color=0088cc)
 I'm a passionate learner who's always willing to learn and work across technologies and domains.
