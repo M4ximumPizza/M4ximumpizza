@@ -11,7 +11,7 @@ of vanilla survival to its limits.
 ### 💫 Talking about Personal Stuffs:
 🔭 I am currently working on Project Alpha right now!!! <br>
 🌱 I’m currently learning Computer Science. <br>
-📫 How to reach me: Discord: M4ximumpizza#4712 or <br>
+📫 How to reach me: Discord: M4ximumpizza#4712 or Email: LWAbernathy@outlook.com <br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact: I write my dates in Roman Numerials.
 
@@ -74,6 +74,16 @@ of vanilla survival to its limits.
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/GeoStudios/Centurion?style=flat-square"/></td>
       </tr>
     </tobody>
+    <tobody>
+      <tr>
+	<td><a href="https://github.com/GeoStudios/Centurion-Lib-Micro"><b>🚀 Centurion Lib</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/GeoStudios/Centurion-Lib-Micro?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/GeoStudios/Centurion-Lib-Micro?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/GeoStudios/Centurion-Lib-Micro?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GeoStudios/Centurion-Lib-Micro?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/GeoStudios/Centurion-Lib-Micro?style=flat-square"/></td>
+      </tr>
+    </tobody>    	  
   </table>
   <br />
 </details>
