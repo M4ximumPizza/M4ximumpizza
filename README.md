@@ -29,7 +29,6 @@ of vanilla survival to its limits.
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4ximumpizza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ximumpizza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  <a href="http://www.github.com/m4ximumpizza"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m4ximumpizza&theme=github-compact" alt="GitHub Commits Graph" /></a>
 </details>
 
 <details>	
