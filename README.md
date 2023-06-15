@@ -3,10 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://m4ximumpizza.github.io/site/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=m4ximumpizza.m4ximumpizza&style=flat-square&color=0088cc)
-I'm a passionate learner who's always willing to learn and work across technologies and domains.
-I'm currently into Java Development and working on my Java Development kit.
-Apart from that, I am a highly technical Minecrafter with pushing the limits 
-of vanilla survival to its limits.
+I'm a passionate learner who's always willing to learn and work across technologies and domains. I'm currently into Java Development and working to be a Java expert. In the progress of me learning Java, I am working my Java Development Kit (JDK), Centurion and pursuing a Ph.D. in CS. Apart from that, I am a highly technical Minecrafter with pushing the limits of vanilla survival to its limits. 
 
 ### 💫 Talking about Personal Stuffs:
 🔭 I am currently working on Project Alpha right now!!! <br>
