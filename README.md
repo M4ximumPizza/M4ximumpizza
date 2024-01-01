@@ -1,7 +1,7 @@
 # Hey, I'm M4ximumpizza! 👋
 
 ## About Me
-I've been coding for 4 years, diving into Java/C++ Game Development, Linux kernel tinkering, and exploring cybersecurity.
+I've been coding for 5 years, diving into Java/C++ Game Development, Linux kernel tinkering, and exploring cybersecurity.
 
 ### Languages I Code In
 <details>
