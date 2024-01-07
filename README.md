@@ -47,15 +47,16 @@ I've been coding for 5 years, diving into Java/C++ Game Development, Linux kerne
 
 <details>
   <summary>My Tech Journey</summary>
-  Five years ago, my journey began with an introduction to Code.org. I delved into the essentials of web development—mastering HTML, CSS, and Javascript during the summer of 2018. Those initial steps led me to craft starter class websites and gain a fundamental understanding of browser mechanisms.
 
-  During the subsequent winter, my curiosity led me to Linux, where I immersed myself in comprehending the Linux kernel. This exploration taught me the intricacies of Bash and the infrastructure of Linux, sparking my interest in unraveling the inner workings of computers.
+I began my journey five years ago with Code.org, diving into web development basics (HTML, CSS, JavaScript). Crafting class websites gave me a grasp of browser mechanisms.
 
-  For the next three years, I delved deep into understanding computer architecture and functionality. In December 2021, I ventured into Scratch and began constructing Geometry Dash levels. Simultaneously, I ventured into Python, employing it to program levels and mods for Geometry Dash—a passion that      endures to this day.
+Curiosity led me to Linux in the subsequent winter, where I delved into the kernel, mastering Bash and Linux's infrastructure. This sparked my interest in computer inner workings.
 
-  In the summer of 2022, I expanded my programming repertoire by mastering Java and Kotlin. This knowledge propelled me into exploring the mechanics of Minecraft, where I engaged with Mojang's projects, delving into Brigadier and DatafixerUpper.
+For three years, I focused on understanding computer architecture. In 2021, I explored Scratch, creating Geometry Dash levels and using Python for game mods—a passion that continues.
 
-  Continuing this journey, in spring 2023, I embraced a deeper dive into Computer Science, delving into the intricacies of C++. Presently, I'm engrossed in learning Cyber Security, understanding the LLVM compiler infrastructure, and actively contributing to a Java Library within the FCCL project.
+Mastering Java and Kotlin in 2022 expanded my programming skills. Exploring Minecraft mechanics, I engaged with Mojang's projects, diving into Brigadier and DatafixerUpper.
 
-  It's an ongoing adventure—one that constantly evolves as I explore new realms and deepen my understanding of the digital landscape.
+Spring 2023 saw me diving deeper into Computer Science, particularly with C++. Now, I'm deeply involved in Cyber Security, learning LLVM compiler infrastructure, and contributing to a Java Library in the FCCL project.
+
+My journey's ongoing, evolving as I explore new realms in the digital landscape.
 </details>
