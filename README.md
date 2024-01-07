@@ -48,15 +48,20 @@ I've been coding for 5 years, diving into Java/C++ Game Development, Linux kerne
 <details>
   <summary>My Tech Journey</summary>
 
-I began my journey five years ago with Code.org, diving into web development basics (HTML, CSS, JavaScript). Crafting class websites gave me a grasp of browser mechanisms.
+I began my journey five years ago with Code.org, diving into web development basics (HTML, CSS, JavaScript). Crafting class <br>
+websites gave me a grasp of browser mechanisms.
 
-Curiosity led me to Linux in the subsequent winter, where I delved into the kernel, mastering Bash and Linux's infrastructure. This sparked my interest in computer inner workings.
+Curiosity led me to Linux in the subsequent winter, where I delved into the kernel, mastering Bash and Linux's infrastructure. <br>
+This sparked my interest in computer inner workings.
 
-For three years, I focused on understanding computer architecture. In 2021, I explored Scratch, creating Geometry Dash levels and using Python for game mods—a passion that continues.
+For three years, I focused on understanding computer architecture. In 2021, I explored Scratch, creating Geometry Dash levels <br>
+and using Python for game mods—a passion that continues.
 
-Mastering Java and Kotlin in 2022 expanded my programming skills. Exploring Minecraft mechanics, I engaged with Mojang's projects, diving into Brigadier and DatafixerUpper.
+Mastering Java and Kotlin in 2022 expanded my programming skills. Exploring Minecraft mechanics, I engaged with Mojang's <br>
+projects, diving into Brigadier and DatafixerUpper.
 
-Spring 2023 saw me diving deeper into Computer Science, particularly with C++. Now, I'm deeply involved in Cyber Security, learning LLVM compiler infrastructure, and contributing to a Java Library in the FCCL project.
+Spring 2023 saw me diving deeper into Computer Science, particularly with C++. Now, I'm deeply involved in Cyber Security, <br>
+learning LLVM compiler infrastructure, and contributing to a Java Library in the FCCL project.
 
 My journey's ongoing, evolving as I explore new realms in the digital landscape.
 </details>
