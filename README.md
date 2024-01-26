@@ -1,6 +1,6 @@
 ## About Me
 
-I am M4ximumpizza. I have been programming for 5 years and currently working on c/c++ & java compilers. Check out FCCL.
+I am M4ximumpizza. I have been programming for 5 years and currently working on c/c++ & java compilers.
 
 My main interest are (without order):
 
