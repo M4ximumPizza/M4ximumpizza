@@ -10,3 +10,4 @@ My main interest are (without order):
   - Backened Infrastructure & Security
   - Cybersecurity
   - Computer Architecture (specifically aarch64 and x86)
+  - Minecraft technical & serverside & computional redstone | Modding
