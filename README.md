@@ -11,3 +11,5 @@ My main interest are (without order):
   - Cybersecurity
   - Computer Architecture (specifically aarch64 and x86)
   - Minecraft technical & serverside & computional redstone | Modding
+
+📢 This year, I will start putting stuff on my profile 😄
