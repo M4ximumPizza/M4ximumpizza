@@ -10,6 +10,8 @@ My main interest are (without order):
   - Backened Infrastructure & Security
   - Cybersecurity
   - Computer Architecture (specifically aarch64 and x86)
-  - Minecraft technical & serverside & computional redstone | Modding
+  - Minecraft technical & serverside & computional redstone | Client & Serverside performance
 
-📢 This year, I will start putting stuff on my profile 😄
+📢 This year, I will be using github significally more! 
+
+Check out [Praetorian](https://github.com/M4ximumPizza/Praetroian?tab=readme-ov-file)! A in progress Java to Machine code compiler!
