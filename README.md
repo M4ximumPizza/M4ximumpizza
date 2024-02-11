@@ -10,7 +10,7 @@ My main interest are (without order):
   - Backened Infrastructure & Security
   - Cybersecurity
   - Computer Architecture (specifically aarch64 and x86)
-  - Minecraft technical & serverside & computional redstone | Client & Serverside performance
+  - Minecraft technical & serverside & computional redstone | Client & Serverside performance modding
 
 📢 This year, I will be using github significally more! 
 
