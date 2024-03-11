@@ -13,5 +13,3 @@ My main interest are (without order):
   - Minecraft technical & serverside & computional redstone | Client & Serverside performance modding
 
 📢 This year, I will be using github significally more! 
-
-Check out [Praetorian](https://github.com/M4ximumPizza/Praetroian?tab=readme-ov-file)! A in progress Java to Machine code compiler!
