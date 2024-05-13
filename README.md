@@ -1,19 +1,24 @@
-## About Me
+## About Me! 
 
-I am M4ximumpizza. I have been programming for 5 years and currently working on compilers and CyberSecurity.
+*Software Engineer | Cybersecurity Enthusiast*
 
-My main interest are (without order):
+---
 
-  - Performance Optimizations
-  - C++ & Java Compilers
-  - C++ & Java (mostly), kotlin
-  - Backened Infrastructure & Security
-  - Cybersecurity
-  - Security Engineering/Architecture
-  - Penetration Testing/Red Teaming
-  - Threat Intelligence Analysis
-  - Computer Architecture (specifically aarch64 and x86)
-  - Minecraft technical & serverside & computional redstone | Serverside performance modding
-  - Learning to be a Cybersecurity Engineer
+I am M4ximumpizza, a seasoned software engineer with 5 years of programming experience, currently specializing in compilers and Cybersecurity. My expertise lies in the intersection of performance optimization and robust security measures.
 
-📢 This year, I will be using github significally more! 
+**Interests:**
+- **Performance Optimization:** Dedicated to enhancing software performance through efficient coding practices.
+- **Compiler Development:** Proficient in C++ & Java compilers, striving for excellence in language efficiency.
+- **Programming Languages:** Skilled in C++, Java (primary), and Kotlin.
+- **Backend Infrastructure & Security:** Focused on building secure and scalable backend systems.
+- **Cybersecurity:** Passionate about safeguarding digital assets and privacy.
+- **Security Engineering/Architecture:** Committed to designing resilient security architectures.
+- **Penetration Testing/Red Teaming:** Actively engaged in identifying and mitigating security vulnerabilities.
+- **Threat Intelligence Analysis:** Analyzing threats to develop proactive security measures.
+- **Computer Architecture:** Specializing in aarch64 and x86 architectures.
+- **Minecraft Expertise:** Proficient in technical and server-side aspects, specializing in computational redstone and server performance optimization.
+
+**Career Goals:**
+Continuously learning and evolving to become a proficient Cybersecurity Engineer.
+
+📢 This year, I am significantly increasing my activity on GitHub to contribute to the open-source community and showcase my projects.
