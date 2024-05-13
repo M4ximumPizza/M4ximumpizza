@@ -1,17 +1,17 @@
 ## About Me! 
 
-*Software Engineer | Cybersecurity Enthusiast*
+*Cybersecurity Student | Aspiring Offensive Ethical Hacker & Malware Analyst*
 
 ---
 
-I am M4ximumpizza, a seasoned software engineer with 5 years of programming experience, currently specializing in compilers and Cybersecurity. My expertise lies in the intersection of performance optimization and robust security measures.
+I am Logan Abernathy, a passionate Cybersecurity student with a focus on offensive ethical hacking and malware analysis. With a dedication to safeguarding personal privacy online, I am currently pursuing a Bachelor's Degree in Cybersecurity.
 
 **Interests:**
-- **Performance Optimization:** Dedicated to enhancing software performance through efficient coding practices.
-- **Compiler Development:** Proficient in C++ & Java compilers, striving for excellence in language efficiency.
+- **Performance Optimization:** I am dedicated to enhancing software performance through efficient coding practices.
+- **Compiler Development:** Proficient in C++ & Java compilers, with a focus on language efficiency.
 - **Programming Languages:** Skilled in C++, Java (primary), and Kotlin.
-- **Backend Infrastructure & Security:** Focused on building secure and scalable backend systems.
-- **Cybersecurity:** Passionate about safeguarding digital assets and privacy.
+- **Backend Infrastructure & Security:** My interest lies in building secure and scalable backend systems.
+- **Cybersecurity:** I am deeply passionate about protecting digital assets and privacy.
 - **Security Engineering/Architecture:** Committed to designing resilient security architectures.
 - **Penetration Testing/Red Teaming:** Actively engaged in identifying and mitigating security vulnerabilities.
 - **Threat Intelligence Analysis:** Analyzing threats to develop proactive security measures.
@@ -19,6 +19,6 @@ I am M4ximumpizza, a seasoned software engineer with 5 years of programming expe
 - **Minecraft Expertise:** Proficient in technical and server-side aspects, specializing in computational redstone and server performance optimization.
 
 **Career Goals:**
-Continuously learning and evolving to become a proficient Cybersecurity Engineer.
+My aim is to continuously learn and evolve, ultimately becoming a proficient Cybersecurity Engineer.
 
 📢 This year, I am significantly increasing my activity on GitHub to contribute to the open-source community and showcase my projects.
