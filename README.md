@@ -8,7 +8,6 @@ I am Logan Abernathy, a passionate Cybersecurity student with a focus on offensi
 
 **Interests:**
 - **Performance Optimization:** I am dedicated to enhancing software performance through efficient coding practices.
-- **Compiler Development:** Proficient in C++ & Java compilers, with a focus on language efficiency.
 - **Programming Languages:** Skilled in C++, Java (primary), and Kotlin.
 - **Backend Infrastructure & Security:** My interest lies in building secure and scalable backend systems.
 - **Cybersecurity:** I am deeply passionate about protecting digital assets and privacy.
